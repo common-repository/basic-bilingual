@@ -1,0 +1,419 @@
+# Translation of Basic Bilingual in French (France)
+# This file is distributed under the same license as the Basic Bilingual package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-09-19 05:23:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Basic Bilingual\n"
+
+#: class-admin.php:135
+msgid "Write an excerpt of your post in the different languages you use on your blog. Short and sweet, or long and detailed."
+msgstr "Rédigez un extrait de votre article dans les différents langages que vous utilisez sur votre blog. Court et concis, ou long et détaillé."
+
+#: class-admin.php:140
+msgid "Settings"
+msgstr "Réglages"
+
+#: class-admin.php:189
+msgid "Select all the languages you will be using on that site."
+msgstr "Sélectionnez toutes les langues que vous utiliserez sur ce site."
+
+#: class-admin.php:190
+msgid "The WordPress language is always selected, please see <a href=\"http://codex.wordpress.org/Installing_WordPress_in_Your_Language\">Installing WordPress in Your Language</a> if you need to change it."
+msgstr "La langue de l'installation WordPress est toujours sélectionnée, merci de vous référer à <a href=\"http://codex.wordpress.org/Installing_WordPress_in_Your_Language\">cet article</a> si vous avez besoin de la changer."
+
+#: class-admin.php:170
+msgid "default site language"
+msgstr "langue du site par défaut"
+
+#: class-admin.php:198
+msgid "Uncheck this option if you want to use template tags in your theme instead of letting the plugin do the work for you."
+msgstr "Désélectionner cette option si vous voulez utiliser les \"template tags\" dans votre thème au lieu de laisser l'extension gérer l'affichage pour vous."
+
+#: class-admin.php:205
+msgid "HTML to put before the excerpts when they are output into a post (use the %lg placeholder to specify where to write the language of the excerpt)."
+msgstr "HTML à placer avant les extraits quand ils sont affichés dans un article (utiliser le mot-clé %lg pour définir où placer la langue de l'extrait)"
+
+#: class-admin.php:211
+msgid "HTML to put after the excerpts."
+msgstr "HTML à placer après les extraits."
+
+#: class-admin.php:218
+msgid "Use the Accept-Language header sent by the visitor's browser to decide what excerpts to show. Deselect to always show all excerpts."
+msgstr "Utiliser l'en-tête \"Accept-Language\" envoyé par le navigateur afin de décider quels extraits afficher. Décocher cette option pour toujours montrer tous les extraits."
+
+#: class-admin.php:226
+msgid "Postfix titles with the language code so that visitors know what's the main language of the content (especially useful when the title appears in links)."
+msgstr "Décorer les titres avec le code de la langue afin d'informer les visiteurs sur la langue principale du contenu (particulièrement utile quand le titre apparaît dans des liens)."
+
+#: class-admin.php:234 class-admin.php:258
+msgid "Basic Bilingual Options"
+msgstr "Réglages pour Basic Bilingual"
+
+#. #-#-#-#-#  plugin.pot (Basic Bilingual 1.2.2)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: class-admin.php:234
+msgid "Basic Bilingual"
+msgstr "Basic Bilingual"
+
+#: class-admin.php:237
+msgid "Site languages"
+msgstr "Langues du site"
+
+#: class-admin.php:238
+msgid "Filter content automatically"
+msgstr "Filtrer le contenu automatiquement"
+
+#: class-admin.php:239
+msgid "Before excerpt"
+msgstr "Avant l'extrait"
+
+#: class-admin.php:240
+msgid "After excerpt"
+msgstr "Après l'extrait"
+
+#: class-admin.php:241
+msgid "Use Accept-Language header"
+msgstr "Utiliser l'en-tête \"Accept-Language\""
+
+#: class-admin.php:242
+msgid "Postfix titles with language code"
+msgstr "Décorer les titres avec le code de la langue"
+
+#: class-admin.php:249
+msgid "Successfully migrated %d post or page."
+msgid_plural "Successfully migrated %d posts and pages."
+msgstr[0] "%d article ou page a été migré avec succès."
+msgstr[1] "%d articles et pages ont été migré avec succès."
+
+#: class-admin.php:252
+msgid "Nothing found to migrate."
+msgstr "Il n'y a rien à migrer."
+
+#: class-admin.php:261
+msgid "Options"
+msgstr "Réglages"
+
+#: class-admin.php:271
+msgid "Migration"
+msgstr "Migration"
+
+#: class-admin.php:274
+msgid "If you have been using this plugin prior to version 1.0 then you will need to migrate your existing data."
+msgstr "Si vous utilisiez déjà cette extension avant sa version 1.0 alors vous devrez effectuer une migration de vos données existantes."
+
+#: class-admin.php:275
+msgid "To migrate, first make sure to select the same two languages you had before in the box above and save the changes, then click on the \"Migrate\" button below."
+msgstr "Afin de migrer les données, vérifiez d'abord que vous avez bien sélectionné les même deux langues que précédement dans la boite de sélection ci-dessus et que vous avez sauvegardé ces changements. Ensuite cliquez sur le bouton \"Migration\" ci-dessous."
+
+#: class-admin.php:276
+msgid "It is strongly recommended that you backup your database before proceeding."
+msgstr "Il est fortement recommandé que vous effectuiez une sauvegarde de votre base de données avant la migration."
+
+#: class-admin.php:277
+msgid "Migrate data from old Plugin"
+msgstr "Migrer les données des anciennes versions"
+
+#: class-admin.php:285
+msgid "Do you like this Plugin?"
+msgstr "Aimez-vous cette extension?"
+
+#: class-admin.php:287
+msgid "Please consider offering something to Stephanie from her <a href=\"http://www.amazon.de/exec/obidos/wishlist/3ZN17IJ7B1XW/\">Amazon wishlist</a> or click on the Paypal button below to make a donation."
+msgstr "Merci d'offrir quelque chose à Stephanie dans sa <a href=\"http://www.amazon.de/exec/obidos/wishlist/3ZN17IJ7B1XW/\">liste de cadeau Amazon</a> ou bien de cliquer sur le bouton Paypal ci-dessous pour faire une donation."
+
+#: class-admin.php:296
+msgid "We also need volunteers to translate that plugin into more languages."
+msgstr "Nous avons également besoin de volontaires pour traduire cette extension en plusieurs langues."
+
+#: class-admin.php:297
+msgid "If you wish to help then contact <a href=\"https://twitter.com/stephtara\">@stephtara</a> on Twitter or see <a href=\"http://climbtothestars.org/contact/\">Stephanie's contact page</a>."
+msgstr "Si vous désirez apporter votre aide, contactez <a href=\\\"https://twitter.com/stephtara\\\">@stephtara</a> sur Twitter ou utilisez la <a href=\\\"http://climbtothestars.org/contact/\\\">page de contact de Stephanie</a>."
+
+#. Plugin URI of the plugin/theme
+msgid "http://climbtothestars.org/wordpress/basic-bilingual/"
+msgstr "http://climbtothestars.org/wordpress/basic-bilingual/"
+
+#. Description of the plugin/theme
+msgid "Makes managing your blog with two languages less cumbersome."
+msgstr "Facilite l'utilisation de votre blog dans plusieurs langues."
+
+#. Author of the plugin/theme
+msgid "Stephanie Booth"
+msgstr "Stephanie Booth"
+
+#. Author URI of the plugin/theme
+msgid "http://climbtothestars.org/"
+msgstr "http://climbtothestars.org/"
+
+#: basic-bilingual.php:330
+msgid "French"
+msgstr "Français"
+
+#: basic-bilingual.php:331
+msgid "Frisian"
+msgstr "Frison"
+
+#: basic-bilingual.php:332
+msgid "Irish"
+msgstr "Irlandais"
+
+#: basic-bilingual.php:333
+msgid "Galician"
+msgstr "Galicien"
+
+#: basic-bilingual.php:334
+msgid "Hebrew"
+msgstr "Hébreu"
+
+#: basic-bilingual.php:335
+msgid "Hindi"
+msgstr "Hindi"
+
+#: basic-bilingual.php:336
+msgid "Croatian"
+msgstr "Croate"
+
+#: basic-bilingual.php:337
+msgid "Hungarian"
+msgstr "Hongrois"
+
+#: basic-bilingual.php:338
+msgid "Indonesian"
+msgstr "Indonésien"
+
+#: basic-bilingual.php:339
+msgid "Icelandic"
+msgstr "Islandais"
+
+#: basic-bilingual.php:340
+msgid "Italian"
+msgstr "Italien"
+
+#: basic-bilingual.php:341
+msgid "Japanese"
+msgstr "Japonais"
+
+#: basic-bilingual.php:342
+msgid "Georgian"
+msgstr "Géorgien"
+
+#: basic-bilingual.php:343
+msgid "Kazakh"
+msgstr "Kazakh"
+
+#: basic-bilingual.php:344
+msgid "Khmer"
+msgstr "Khmer"
+
+#: basic-bilingual.php:345
+msgid "Kannada"
+msgstr "Kannada"
+
+#: basic-bilingual.php:346
+msgid "Korean"
+msgstr "Coréen"
+
+#: basic-bilingual.php:347
+msgid "Lithuanian"
+msgstr "Lituanien"
+
+#: basic-bilingual.php:348
+msgid "Latvian"
+msgstr "Letton"
+
+#: basic-bilingual.php:349
+msgid "Macedonian"
+msgstr "Macédonien"
+
+#: basic-bilingual.php:350
+msgid "Malayalam"
+msgstr "Malayalam"
+
+#: basic-bilingual.php:351
+msgid "Mongolian"
+msgstr "Mongol"
+
+#: basic-bilingual.php:352
+msgid "Norwegian Bokmal"
+msgstr "Norvégien bokmål"
+
+#: basic-bilingual.php:353
+msgid "Nepali"
+msgstr "Népalais"
+
+#: basic-bilingual.php:354
+msgid "Dutch"
+msgstr "Hollandais"
+
+#: basic-bilingual.php:355
+msgid "Norwegian Nynorsk"
+msgstr "Norvégien nynorsk"
+
+#: basic-bilingual.php:356
+msgid "Punjabi"
+msgstr "Punjabi"
+
+#: basic-bilingual.php:357
+msgid "Polish"
+msgstr "Polonais"
+
+#: basic-bilingual.php:358
+msgid "Portuguese"
+msgstr "Portugais"
+
+#: basic-bilingual.php:359
+msgid "Romanian"
+msgstr "Roumain"
+
+#: basic-bilingual.php:360
+msgid "Russian"
+msgstr "Russe"
+
+#: basic-bilingual.php:361
+msgid "Slovak"
+msgstr "Slovaque"
+
+#: basic-bilingual.php:362
+msgid "Slovenian"
+msgstr "Slovène"
+
+#: basic-bilingual.php:363
+msgid "Albanian"
+msgstr "Albanais"
+
+#: basic-bilingual.php:364
+msgid "Serbian"
+msgstr "Serbe"
+
+#: basic-bilingual.php:365
+msgid "Swedish"
+msgstr "Suédois"
+
+#: basic-bilingual.php:366
+msgid "Swahili"
+msgstr "Swahili"
+
+#: basic-bilingual.php:367
+msgid "Tamil"
+msgstr "Tamil"
+
+#: basic-bilingual.php:368
+msgid "Telugu"
+msgstr "Telugu"
+
+#: basic-bilingual.php:369
+msgid "Thai"
+msgstr "Thaïlandais"
+
+#: basic-bilingual.php:370
+msgid "Turkish"
+msgstr "Turque"
+
+#: basic-bilingual.php:371
+msgid "Tatar"
+msgstr "Tatar"
+
+#: basic-bilingual.php:372
+msgid "Ukrainian"
+msgstr "Ukrainien"
+
+#: basic-bilingual.php:373
+msgid "Urdu"
+msgstr "Urdu"
+
+#: basic-bilingual.php:374
+msgid "Vietnamese"
+msgstr "Vietnamien"
+
+#: basic-bilingual.php:375
+msgid "Chinese"
+msgstr "Chinois"
+
+#: class-admin.php:32
+msgid "View all languages"
+msgstr "Toutes les langues"
+
+#: class-admin.php:51 class-admin.php:68 class-admin.php:69
+msgid "Language"
+msgstr "Langue"
+
+#: class-admin.php:70 class-admin.php:71
+msgid "Excerpts"
+msgstr "Extraits"
+
+#: basic-bilingual.php:312
+msgid "Arabic"
+msgstr "Arabe"
+
+#: basic-bilingual.php:313
+msgid "Azerbaijani"
+msgstr "Azerbaïdjanais"
+
+#: basic-bilingual.php:314
+msgid "Bulgarian"
+msgstr "Bulgare"
+
+#: basic-bilingual.php:315
+msgid "Bengali"
+msgstr "Bengali"
+
+#: basic-bilingual.php:316
+msgid "Bosnian"
+msgstr "Bosnien"
+
+#: basic-bilingual.php:317
+msgid "Catalan"
+msgstr "Catalan"
+
+#: basic-bilingual.php:318
+msgid "Czech"
+msgstr "Tchèque"
+
+#: basic-bilingual.php:319
+msgid "Welsh"
+msgstr "Gallois"
+
+#: basic-bilingual.php:320
+msgid "Danish"
+msgstr "Danois"
+
+#: basic-bilingual.php:321
+msgid "German"
+msgstr "Allemand"
+
+#: basic-bilingual.php:322
+msgid "Greek"
+msgstr "Grecque"
+
+#: basic-bilingual.php:323
+msgid "English"
+msgstr "Anglais"
+
+#: basic-bilingual.php:324
+msgid "Esperanto"
+msgstr "Esperanto"
+
+#: basic-bilingual.php:325
+msgid "Spanish"
+msgstr "Espagnol"
+
+#: basic-bilingual.php:326
+msgid "Estonian"
+msgstr "Estonien"
+
+#: basic-bilingual.php:327
+msgid "Basque"
+msgstr "Basque"
+
+#: basic-bilingual.php:328
+msgid "Persian"
+msgstr "Persan"
+
+#: basic-bilingual.php:329
+msgid "Finnish"
+msgstr "Finnois"

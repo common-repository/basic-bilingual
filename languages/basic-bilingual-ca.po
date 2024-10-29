@@ -1,0 +1,419 @@
+# Translation of Basic Bilingual in Catalan
+# This file is distributed under the same license as the Basic Bilingual package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-09-28 15:47:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Basic Bilingual\n"
+
+#: class-admin.php:135
+msgid "Write an excerpt of your post in the different languages you use on your blog. Short and sweet, or long and detailed."
+msgstr "Escriu un extracte en els diferents idiomes que utilitza en el seu bloc. Curt o llarg, vostè escull."
+
+#: class-admin.php:140
+msgid "Settings"
+msgstr "Configuració"
+
+#: class-admin.php:189
+msgid "Select all the languages you will be using on that site."
+msgstr "Selecciona tots els idiomes que utilitzaràs en aquest lloc."
+
+#: class-admin.php:190
+msgid "The WordPress language is always selected, please see <a href=\"http://codex.wordpress.org/Installing_WordPress_in_Your_Language\">Installing WordPress in Your Language</a> if you need to change it."
+msgstr "L'idioma de WordPress està seleccionat per defecte. Si necessites ajuda, <a href=\"http://codex.wordpress.org/Installing_WordPress_in_Your_Language\">Instal·lació de WordPress en el seu idioma</a> per canviar-ho."
+
+#: class-admin.php:170
+msgid "default site language"
+msgstr "Idioma per defecte"
+
+#: class-admin.php:198
+msgid "Uncheck this option if you want to use template tags in your theme instead of letting the plugin do the work for you."
+msgstr "Desactiveu aquesta opció si voleu utilitzar etiquetes de plantilla en el seu tema enlloc de deixar que el plugin faci el treball per vostè."
+
+#: class-admin.php:205
+msgid "HTML to put before the excerpts when they are output into a post (use the %lg placeholder to specify where to write the language of the excerpt)."
+msgstr "Codi HTML per posar davant dels extractes quan aquests formen part d'un post (utilitzeu el %lg per especificar on escriure l'idioma del excerpt)."
+
+#: class-admin.php:211
+msgid "HTML to put after the excerpts."
+msgstr "Codi HTML per posar després dels excerpts."
+
+#: class-admin.php:218
+msgid "Use the Accept-Language header sent by the visitor's browser to decide what excerpts to show. Deselect to always show all excerpts."
+msgstr "Utilitzeu la capçalera d'idioma que envia el navegador del usuari per decidir quin excerpt mostrar. Si no ho marqueu, es mostraràn tots per defecte."
+
+#: class-admin.php:226
+msgid "Postfix titles with the language code so that visitors know what's the main language of the content (especially useful when the title appears in links)."
+msgstr "Títols del Postfix amb el codi d'idioma perquè els visitants sàpiguen quin és l'idioma principal del contingut (especialment útil quan el títol apareix en enllaços)."
+
+#: class-admin.php:234 class-admin.php:258
+msgid "Basic Bilingual Options"
+msgstr "Opcions bàsiques bilingües"
+
+#. #-#-#-#-#  plugin.pot (Basic Bilingual 1.2.2)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: class-admin.php:234
+msgid "Basic Bilingual"
+msgstr "Bilingüe"
+
+#: class-admin.php:237
+msgid "Site languages"
+msgstr "Idiomes del site"
+
+#: class-admin.php:238
+msgid "Filter content automatically"
+msgstr "Filtrar el contingut automàticament"
+
+#: class-admin.php:239
+msgid "Before excerpt"
+msgstr "Abans del excerpt"
+
+#: class-admin.php:240
+msgid "After excerpt"
+msgstr "Després del excerpt"
+
+#: class-admin.php:241
+msgid "Use Accept-Language header"
+msgstr "Utilitzar capçaleres de navegador \"Accept Language\""
+
+#: class-admin.php:242
+msgid "Postfix titles with language code"
+msgstr "Títols de Postfix amb codi d'idioma"
+
+#: class-admin.php:249
+msgid "Successfully migrated %d post or page."
+msgid_plural "Successfully migrated %d posts and pages."
+msgstr[0] "Migrat satisfactoriament %d del post o de la pàgina."
+msgstr[1] "Migrat satisfactoriament %d dels posts o de les pàgines."
+
+#: class-admin.php:252
+msgid "Nothing found to migrate."
+msgstr "No s'ha trobat res per migrar."
+
+#: class-admin.php:261
+msgid "Options"
+msgstr "Opcions"
+
+#: class-admin.php:271
+msgid "Migration"
+msgstr "Migració"
+
+#: class-admin.php:274
+msgid "If you have been using this plugin prior to version 1.0 then you will need to migrate your existing data."
+msgstr "Si vostè ha estat utilitzant aquest plugin abans de la versió 1.0, aleshores necessitarà migrar les dades existents."
+
+#: class-admin.php:275
+msgid "To migrate, first make sure to select the same two languages you had before in the box above and save the changes, then click on the \"Migrate\" button below."
+msgstr "Per migrar, primer assegureu-vos de seleccionar els mateixos dos idiomes que tenieu abans en el quadre de dalt i guardeu els canvis. A continuació, feu clic al botó \"Migrar\"."
+
+#: class-admin.php:276
+msgid "It is strongly recommended that you backup your database before proceeding."
+msgstr "Et recomanem que facis un backup de la teva base de dades abans de procedir."
+
+#: class-admin.php:277
+msgid "Migrate data from old Plugin"
+msgstr "Migrar dades de l'antic pluguin"
+
+#: class-admin.php:285
+msgid "Do you like this Plugin?"
+msgstr "T'agrada aquest puglin?"
+
+#: class-admin.php:287
+msgid "Please consider offering something to Stephanie from her <a href=\"http://www.amazon.de/exec/obidos/wishlist/3ZN17IJ7B1XW/\">Amazon wishlist</a> or click on the Paypal button below to make a donation."
+msgstr "Si ho desitges, pots oferir-li al Stephanie alguna cosa de la seva <a href=\"http://www.amazon.de/exec/obidos/wishlist/3ZN17IJ7B1XW/\">llista de desitjos d'Amazon</a> o fer clic al botó de PayPal per fer-li una donació."
+
+#: class-admin.php:296
+msgid "We also need volunteers to translate that plugin into more languages."
+msgstr "Necessitem voluntaris per traduir aquest plugin a noves llengues."
+
+#: class-admin.php:297
+msgid "If you wish to help then contact <a href=\"https://twitter.com/stephtara\">@stephtara</a> on Twitter or see <a href=\"http://climbtothestars.org/contact/\">Stephanie's contact page</a>."
+msgstr "Si vols ajudar posa't en contacte vía <a href=\"https://twitter.com/stephtara\">@stephtara</a> a Twitter o ves a <a href=\"http://climbtothestars.org/contact/\">la pàgina de contacte del Stephanie.</a>"
+
+#. Plugin URI of the plugin/theme
+msgid "http://climbtothestars.org/wordpress/basic-bilingual/"
+msgstr "http://climbtothestars.org/wordpress/basic-bilingual/"
+
+#. Description of the plugin/theme
+msgid "Makes managing your blog with two languages less cumbersome."
+msgstr "Fa la gestió del seu bloc amb dues llengües menys molest."
+
+#. Author of the plugin/theme
+msgid "Stephanie Booth"
+msgstr "Stephanie Booth"
+
+#. Author URI of the plugin/theme
+msgid "http://climbtothestars.org/"
+msgstr "http://climbtothestars.org/"
+
+#: basic-bilingual.php:330
+msgid "French"
+msgstr "Francès"
+
+#: basic-bilingual.php:331
+msgid "Frisian"
+msgstr "Frisó"
+
+#: basic-bilingual.php:332
+msgid "Irish"
+msgstr "Irlandès"
+
+#: basic-bilingual.php:333
+msgid "Galician"
+msgstr "Gallec"
+
+#: basic-bilingual.php:334
+msgid "Hebrew"
+msgstr "Hebreu"
+
+#: basic-bilingual.php:335
+msgid "Hindi"
+msgstr "Hindi"
+
+#: basic-bilingual.php:336
+msgid "Croatian"
+msgstr "Croat"
+
+#: basic-bilingual.php:337
+msgid "Hungarian"
+msgstr "Hongarès"
+
+#: basic-bilingual.php:338
+msgid "Indonesian"
+msgstr "Indonesi"
+
+#: basic-bilingual.php:339
+msgid "Icelandic"
+msgstr "Islandès"
+
+#: basic-bilingual.php:340
+msgid "Italian"
+msgstr "Italià"
+
+#: basic-bilingual.php:341
+msgid "Japanese"
+msgstr "Japonès"
+
+#: basic-bilingual.php:342
+msgid "Georgian"
+msgstr "Georgià"
+
+#: basic-bilingual.php:343
+msgid "Kazakh"
+msgstr "Kazakh"
+
+#: basic-bilingual.php:344
+msgid "Khmer"
+msgstr "Khmer"
+
+#: basic-bilingual.php:345
+msgid "Kannada"
+msgstr "Kannada"
+
+#: basic-bilingual.php:346
+msgid "Korean"
+msgstr "Coreà"
+
+#: basic-bilingual.php:347
+msgid "Lithuanian"
+msgstr "Lituà"
+
+#: basic-bilingual.php:348
+msgid "Latvian"
+msgstr "Letó"
+
+#: basic-bilingual.php:349
+msgid "Macedonian"
+msgstr "Macedoni"
+
+#: basic-bilingual.php:350
+msgid "Malayalam"
+msgstr "Malayalam"
+
+#: basic-bilingual.php:351
+msgid "Mongolian"
+msgstr "Mongol"
+
+#: basic-bilingual.php:352
+msgid "Norwegian Bokmal"
+msgstr "Noruec"
+
+#: basic-bilingual.php:353
+msgid "Nepali"
+msgstr "Nepalès"
+
+#: basic-bilingual.php:354
+msgid "Dutch"
+msgstr "Holandès"
+
+#: basic-bilingual.php:355
+msgid "Norwegian Nynorsk"
+msgstr "Noruec"
+
+#: basic-bilingual.php:356
+msgid "Punjabi"
+msgstr "Punjabi"
+
+#: basic-bilingual.php:357
+msgid "Polish"
+msgstr "Polonès"
+
+#: basic-bilingual.php:358
+msgid "Portuguese"
+msgstr "Portuguès"
+
+#: basic-bilingual.php:359
+msgid "Romanian"
+msgstr "Romanès"
+
+#: basic-bilingual.php:360
+msgid "Russian"
+msgstr "Rus"
+
+#: basic-bilingual.php:361
+msgid "Slovak"
+msgstr "Eslovac"
+
+#: basic-bilingual.php:362
+msgid "Slovenian"
+msgstr "Eslovè"
+
+#: basic-bilingual.php:363
+msgid "Albanian"
+msgstr "Albanès"
+
+#: basic-bilingual.php:364
+msgid "Serbian"
+msgstr "Serbi"
+
+#: basic-bilingual.php:365
+msgid "Swedish"
+msgstr "Suec"
+
+#: basic-bilingual.php:366
+msgid "Swahili"
+msgstr "Suahili"
+
+#: basic-bilingual.php:367
+msgid "Tamil"
+msgstr "Tamil"
+
+#: basic-bilingual.php:368
+msgid "Telugu"
+msgstr "Telugu"
+
+#: basic-bilingual.php:369
+msgid "Thai"
+msgstr "Tailandès"
+
+#: basic-bilingual.php:370
+msgid "Turkish"
+msgstr "Turc"
+
+#: basic-bilingual.php:371
+msgid "Tatar"
+msgstr "Tàrtar"
+
+#: basic-bilingual.php:372
+msgid "Ukrainian"
+msgstr "Ucraïnès"
+
+#: basic-bilingual.php:373
+msgid "Urdu"
+msgstr "Urdu"
+
+#: basic-bilingual.php:374
+msgid "Vietnamese"
+msgstr "Vietnamita"
+
+#: basic-bilingual.php:375
+msgid "Chinese"
+msgstr "Xinès"
+
+#: class-admin.php:32
+msgid "View all languages"
+msgstr "Veure tots els idiomes"
+
+#: class-admin.php:51 class-admin.php:68 class-admin.php:69
+msgid "Language"
+msgstr "Idioma"
+
+#: class-admin.php:70 class-admin.php:71
+msgid "Excerpts"
+msgstr "Extractes"
+
+#: basic-bilingual.php:312
+msgid "Arabic"
+msgstr "Àrab"
+
+#: basic-bilingual.php:313
+msgid "Azerbaijani"
+msgstr "Azerbaidjan"
+
+#: basic-bilingual.php:314
+msgid "Bulgarian"
+msgstr "Búlgar"
+
+#: basic-bilingual.php:315
+msgid "Bengali"
+msgstr "Bengalí"
+
+#: basic-bilingual.php:316
+msgid "Bosnian"
+msgstr "Bosnià"
+
+#: basic-bilingual.php:317
+msgid "Catalan"
+msgstr "Català"
+
+#: basic-bilingual.php:318
+msgid "Czech"
+msgstr "Txec"
+
+#: basic-bilingual.php:319
+msgid "Welsh"
+msgstr "Galés"
+
+#: basic-bilingual.php:320
+msgid "Danish"
+msgstr "Danès"
+
+#: basic-bilingual.php:321
+msgid "German"
+msgstr "Alemany"
+
+#: basic-bilingual.php:322
+msgid "Greek"
+msgstr "Grec"
+
+#: basic-bilingual.php:323
+msgid "English"
+msgstr "Anglès"
+
+#: basic-bilingual.php:324
+msgid "Esperanto"
+msgstr "Esperanto"
+
+#: basic-bilingual.php:325
+msgid "Spanish"
+msgstr "Espanyol"
+
+#: basic-bilingual.php:326
+msgid "Estonian"
+msgstr "Estonià"
+
+#: basic-bilingual.php:327
+msgid "Basque"
+msgstr "Basc"
+
+#: basic-bilingual.php:328
+msgid "Persian"
+msgstr "Persa"
+
+#: basic-bilingual.php:329
+msgid "Finnish"
+msgstr "Finès"
